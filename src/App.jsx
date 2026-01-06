@@ -397,7 +397,7 @@ function App() {
               e
             </div>
             <div className="text-xl font-bold text-slate-900 tracking-tight">
-              eRkab <span className="text-cyan-600">Docs</span>
+              eRkab <span className="text-cyan-500">Docs</span>
             </div>
           </a>
 
